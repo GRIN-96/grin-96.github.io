@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://github.com/GRIN-96/sitemap-index.xml
-Host: https://github.com
