@@ -2,7 +2,7 @@ module.exports = {
   title: "grin.blog",
   description: "안녕하세요, 적응왕 백앤드 개발자 최민기입니다.",
   author: "Grin",
-  siteUrl: "https://grin.blog",
+  siteUrl: "https://grin-96.github.io",
   links: {
     github: "https://github.com/GRIN-96",
     email: "mailto:bnmnil96@gmail.com",

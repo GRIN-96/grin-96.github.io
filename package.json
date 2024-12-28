@@ -1,10 +1,9 @@
 {
-  "name": "gatsby-starter-hoodie",
+  "name": "grin.blog",
   "private": false,
-  "description": "gatsby-starter-hoodie is a gatsby theme developed for developers to write tech blogs.",
-  "homepage": "https://devhudi.github.io/gatsby-starter-hoodie/",
-  "version": "0.2.0",
-  "author": "Hudi",
+  "description": "grin blogs.",
+  "version": "1.0.0",
+  "author": "Grin",
   "dependencies": {
     "@giscus/react": "^3.0.0",
     "babel-eslint": "^10.1.0",
@@ -77,15 +76,10 @@
     "check:lint": "eslint . --ext .js,.jsx",
     "fix:lint": "eslint . --fix --ext .js,.jsx",
     "check:prettier": "prettier -c .",
-    "fix:prettier": "prettier -c --write .",
-    "predeploy": "npm run build",
-    "deploy": "npm run deploy-gh"
+    "fix:prettier": "prettier -c --write ."
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/devHudi/gatsby-starter-hoodie"
-  },
+  "homepage": "https://grin-96.github.io",
   "bugs": {
-    "url": "https://github.com/devHudi/gatsby-starter-hoodie"
+    "url": "https://github.com/GRIN-96/grin-96.github.io"
   }
 }
