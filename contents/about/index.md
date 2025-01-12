@@ -1,5 +1,5 @@
 ---
-title: "This is about page ✋"
+title: "미완성 페이지 입니다. ✋"
 ---
 
 ## English Guide

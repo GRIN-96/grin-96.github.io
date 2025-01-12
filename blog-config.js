@@ -1,13 +1,13 @@
 module.exports = {
   title: "grin.blog",
-  description: "안녕하세요, 적응왕 백앤드 개발자 최민기입니다.",
+  description: "백엔드 개발 블로그",
   author: "Grin",
   siteUrl: "https://grin-96.github.io",
   links: {
     github: "https://github.com/GRIN-96",
     email: "mailto:bnmnil96@gmail.com",
   },
-  useAbout: true,
+  useAbout: false,
   // See https://giscus.app/
   giscus: {
     repo: "GRIN-96/blog-comment",
