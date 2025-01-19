@@ -5,8 +5,7 @@ date: 2025-01-13 23:59
 update: 2025-01-13 23:59
 tags:
   - MSA
-  - Microservice
-  - Spring Cloud
+  - 12 Factors
 series: "🍃 Microservice와 Spring Cloud"
 ---
 

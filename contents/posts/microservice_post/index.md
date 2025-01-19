@@ -5,8 +5,7 @@ date: 2025-01-13 23:57
 update: 2025-01-13 23:57
 tags:
   - MSA
-  - Microservice
-  - Spring Cloud
+  - Cloud Native Architecture
 series: "🍃 Microservice와 Spring Cloud"
 ---
 
