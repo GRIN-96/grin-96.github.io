@@ -27,7 +27,7 @@ IntelliJ 단축키 정리 (Mac & Windows)
 | 백 버튼 (이전 코드로 이동) | `Cmd + [` | `Ctrl + Alt + Left` |
 | 앞으로 이동 (이전 위치로 이동) | `Cmd + ]` | `Ctrl + Alt + Right` |
 
----
+
 
 ## 2️⃣ 코드 편집
 
@@ -46,7 +46,7 @@ IntelliJ 단축키 정리 (Mac & Windows)
 | 단어별 이동 (좌/우) | `Option + ← / →` | `Ctrl + ← / →` |
 | 행 단위로 이동 (페이지 업/다운) | `Cmd + ↑ / ↓` | `Ctrl + ↑ / ↓` |
 
----
+
 
 ## 3️⃣ 코드 생성 및 리팩토링
 
@@ -64,7 +64,7 @@ IntelliJ 단축키 정리 (Mac & Windows)
 | 필드 추출 (Extract Field) | `Cmd + Option + F` | `Ctrl + Alt + F` |
 | 상수 추출 (Extract Constant) | `Cmd + Option + C` | `Ctrl + Alt + C` |
 
----
+
 
 ## 4️⃣ 실행 및 디버깅
 
@@ -78,7 +78,7 @@ IntelliJ 단축키 정리 (Mac & Windows)
 | 디버깅 진행 (Step Into) | `F7` | `F7` |
 | 디버깅 종료 | `Cmd + F2` | `Ctrl + F2` |
 
----
+
 
 ## 5️⃣ Git / Version Control
 
@@ -91,7 +91,7 @@ IntelliJ 단축키 정리 (Mac & Windows)
 | 변경사항 확인 (Local Changes) | `Cmd + Shift + C` | `Ctrl + Shift + C` |
 | 버전 기록 보기 (Show History) | `Cmd + Shift + A` | `Ctrl + Shift + A` |
 
----
+
 
 ## 6️⃣ 창 관리 및 설정
 
@@ -105,4 +105,3 @@ IntelliJ 단축키 정리 (Mac & Windows)
 | 현재 창 닫기 | `Cmd + W` | `Ctrl + F4` |
 | 모든 창 닫기 | `Cmd + Shift + W` | `Ctrl + Shift + F4` |
 
----
