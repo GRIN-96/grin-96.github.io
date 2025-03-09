@@ -31,20 +31,20 @@ IntelliJ 단축키 정리 (Mac & Windows)
 
 ## 2️⃣ 코드 편집
 
-| 기능 | Mac | Windows |
-|---|---|---|
-| 코드 자동 정렬 (Reformat Code) | `Cmd + Option + L` | `Ctrl + Alt + L` |
-| 자동 줄 맞춤 (Optimize Imports) | `Cmd + Option + O` | `Ctrl + Alt + O` |
-| 주석 토글 (라인 주석) | `Cmd + /` | `Ctrl + /` |
-| 블록 주석 토글 | `Cmd + Shift + /` | `Ctrl + Shift + /` |
-| 한 줄 삭제 | `Cmd + Backspace` | `Ctrl + Y` |
-| 줄 복사 (현재 줄을 복사 후 다음 줄에 붙여넣기) | `Cmd + D` | `Ctrl + D` |
+| 기능 | Mac                      | Windows |
+|---|--------------------------|---|
+| 코드 자동 정렬 (Reformat Code) | `Cmd + Option + L`       | `Ctrl + Alt + L` |
+| 사용하지 않는 import 정리 (Optimize Imports) | `Ctrl + Option + O`      | `Ctrl + Alt + O` |
+| 주석 토글 (라인 주석) | `Cmd + /`                | `Ctrl + /` |
+| 블록 주석 토글 | `Cmd + Shift + /`        | `Ctrl + Shift + /` |
+| 한 줄 삭제 | `Cmd + Backspace`        | `Ctrl + Y` |
+| 줄 복사 (현재 줄을 복사 후 다음 줄에 붙여넣기) | `Cmd + D`                | `Ctrl + D` |
 | 줄 이동 (위/아래) | `Option + Shift + ↑ / ↓` | `Shift + Alt + ↑ / ↓` |
-| 줄 병합 (다음 줄과 합치기) | `Cmd + Shift + J` | `Ctrl + Shift + J` |
-| 선택 영역 확장 | `Option + ↑` | `Ctrl + W` |
-| 선택 영역 축소 | `Option + ↓` | `Ctrl + Shift + W` |
-| 단어별 이동 (좌/우) | `Option + ← / →` | `Ctrl + ← / →` |
-| 행 단위로 이동 (페이지 업/다운) | `Cmd + ↑ / ↓` | `Ctrl + ↑ / ↓` |
+| 줄 병합 (다음 줄과 합치기) | `Ctrl + Shift + J`        | `Ctrl + Shift + J` |
+| 선택 영역 확장 | `Option + ↑`             | `Ctrl + W` |
+| 선택 영역 축소 | `Option + ↓`             | `Ctrl + Shift + W` |
+| 단어별 이동 (좌/우) | `Option + ← / →`         | `Ctrl + ← / →` |
+| 행 단위로 이동 (페이지 업/다운) | `Cmd + ↑ / ↓`            | `Ctrl + ↑ / ↓` |
 
 
 
@@ -53,10 +53,10 @@ IntelliJ 단축키 정리 (Mac & Windows)
 | 기능 | Mac | Windows |
 |---|---|---|
 | 자동 완성 (기본) | `Ctrl + Space` | `Ctrl + Space` |
-| 스마트 자동 완성 (타입 맞춤 자동완성) | `Cmd + Shift + Space` | `Ctrl + Shift + Space` |
+| 스마트 자동 완성 (타입 맞춤 자동완성) | `Ctrl + Shift + Space` | `Ctrl + Shift + Space` |
 | 빠른 수정 (Show Intention Actions - Alt+Enter) | `Option + Enter` | `Alt + Enter` |
-| 메서드 구현 (Override/Implement Methods) | `Cmd + I` | `Ctrl + I` |
-| 메서드 정의로 이동 (Declaration) | `Cmd + B` | `Ctrl + B` |
+| 메서드 구현 (Override/Implement Methods) | `Ctrl + I` | `Ctrl + I` |
+| 메서드 정의로 이동 (Declaration) | `Ctrl + B` | `Ctrl + B` |
 | 메서드 사용처 찾기 (Find Usages) | `Option + F7` | `Alt + F7` |
 | 변수 리팩토링 (변수명 변경) | `Shift + F6` | `Shift + F6` |
 | 메서드 추출 (Extract Method) | `Cmd + Option + M` | `Ctrl + Alt + M` |
